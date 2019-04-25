@@ -6,11 +6,13 @@ After some time, I saw a [3D screensaver](https://play.google.com/store/search?q
 By the way, you can reproduce this using samples below and this [plugin](https://assetstore.unity.com/packages/tools/integration/ulivewallpaper-indie-52110) for Unity
 
 **Version 0**
+
 The first thing that occurred to me it's to **split image by Z** and changing **rotation by X and Y** as it turned out very easily. As a test, I tried to reproduce tree from above. 
 
 ![](http://drive.google.com/uc?export=view&id=1Bz4JYuhdATN4j4WE34sfIljG9iHCLjhO)
 
 **Version 1**
+
 To reach the depth of the picture, you only need to change by increasing Z. I tried many options and the more I tried to adjust it the less I liked it. In fact, if you look closely, the coordinates on the plane are visually shifted. And the second idea was born. **Replace rotation to offset in X and Y**. 
 
 ![](http://drive.google.com/uc?export=view&id=1XH0tB7NnfYA0XfgyJ7pVxm_0GLX61MuF)

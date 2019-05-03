@@ -25,3 +25,8 @@ I recently saw this article.([facebook 3d photos](https://www.alanzucconi.com/20
 And I tried to make the same effect for the test, but already **using a shader**. This version has the right to exist, but I prefer version 1 - because of the configuration options.
 
 ![](http://drive.google.com/uc?export=view&id=1X9Y928z-0otB2s5vlfJGK27GB7Oup2F5)
+
+
+**Folow me:** 
+
+[Patreon](https://www.patreon.com/suncube)  | [Twitter](https://twitter.com/suncubestudio) | [Facebook](https://www.facebook.com/suncubestudio/) | [YouTube](https://www.youtube.com/channel/UC4O9GHjx0ovyVYJgMg4aFMA?view_as=subscriber) | [AssetStore](https://assetstore.unity.com/publishers/14506) | [GitHub](https://github.com/suncube)

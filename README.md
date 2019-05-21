@@ -1,4 +1,12 @@
-## 2D like 3D
+## 2D like 3D [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](/LICENSE)
+
+[![Donate](https://img.shields.io/badge/-DONATE-green.svg)](https://www.donationalerts.com/r/suncube)
+[![Patreon](https://img.shields.io/badge/donate-Patreon-orange.svg)](https://www.patreon.com/suncube)
+[![Twitter](https://img.shields.io/badge/follow-Twitter-9cf.svg)](https://twitter.com/suncubestudio)
+[![Facebook](https://img.shields.io/badge/follow-Facebook-blue.svg)](https://www.facebook.com/suncubestudio/)
+[![YouTube](https://img.shields.io/badge/follow-YouTube-red.svg)](https://www.youtube.com/channel/UC4O9GHjx0ovyVYJgMg4aFMA?view_as=subscriber)
+[![AssetStore](https://img.shields.io/badge/-AssetStore-lightgrey.svg)](https://assetstore.unity.com/publishers/14506)
+
 
 All started from idea. There was a time when game was loading scenes on mobile devices for 12 second, so long for mobile. And in order to diversify loading screen I thought to make a mini game on the loading screen. As an interaction, use an accelerometer or gyroscope device. 
 
@@ -24,9 +32,9 @@ Due to the fact that the speed was the same everywhere and distances were differ
 I recently saw this article.([facebook 3d photos](https://www.alanzucconi.com/2019/01/01/facebook-3d-photos/))
 And I tried to make the same effect for the test, but already **using a shader**. This version has the right to exist, but I prefer version 1 - because of the configuration options.
 
+
 ![](/ReadmeSource/preview3.gif)
 
 
-**Folow me:** 
 
-[Patreon](https://www.patreon.com/suncube)  | [Twitter](https://twitter.com/suncubestudio) | [Facebook](https://www.facebook.com/suncubestudio/) | [YouTube](https://www.youtube.com/channel/UC4O9GHjx0ovyVYJgMg4aFMA?view_as=subscriber) | [AssetStore](https://assetstore.unity.com/publishers/14506) | [GitHub](https://github.com/suncube)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)

@@ -33,6 +33,3 @@ And I tried to make the same effect for the test, but already **using a shader**
 
 ![](/ReadmeSource/preview3.gif)
 
-
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
